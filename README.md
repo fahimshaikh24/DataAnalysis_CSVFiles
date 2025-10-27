@@ -13,7 +13,7 @@ It analyzes monthly product sales and represents insights using visual charts.
 ## 📎 Notebook File  
 Access the Colab notebook here:  
 👉 **DataAnalysis.ipynb**
-https://github.com/fahimshaikh24/repo/blob/main/DataAnalysis.ipynb
+[DataAnalysis.ipynb](https://github.com/fahimshaikh24/DataAnalysis_CSVFiles/blob/main/DataAnalysis.ipynb)
 
 
 ## 📋 Features
